@@ -26,6 +26,7 @@ node src/day01/part2.js
 
 ## 🕹️ Challenges
 
-| Day | Name             | Rules                                        | Part 1                         | Part 2                         |
-| --- | ---------------- | -------------------------------------------- | ------------------------------ | ------------------------------ |
-| 1   | Calorie Counting | [rules](https://adventofcode.com/2022/day/1) | [part 1](./src/day01/part1.js) | [part 2](./src/day01/part2.js) |
+| Day | Name                | Rules                                        | Part 1                         | Part 2                         |
+| --- | ------------------- | -------------------------------------------- | ------------------------------ | ------------------------------ |
+| 1   | Calorie Counting    | [rules](https://adventofcode.com/2022/day/1) | [part 1](./src/day01/part1.js) | [part 2](./src/day01/part2.js) |
+| 2   | Rock Paper Scissors | [rules](https://adventofcode.com/2022/day/2) | [part 1](./src/day02/part1.js) | [part 2](./src/day02/part2.js) |
