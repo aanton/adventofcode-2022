@@ -26,5 +26,6 @@ node src/day01/part2.js
 
 ## 🕹️ Challenges
 
-| Day | Name | Rules | Part 1 | Part 2 |
-| --- | ---- | ----- | ------ | ------ |
+| Day | Name             | Rules                                        | Part 1                         | Part 2                         |
+| --- | ---------------- | -------------------------------------------- | ------------------------------ | ------------------------------ |
+| 1   | Calorie Counting | [rules](https://adventofcode.com/2022/day/1) | [part 1](./src/day01/part1.js) | [part 2](./src/day01/part2.js) |
